@@ -1,0 +1,10 @@
+/* Custom styles for the dropdown menu */
+.navbar-nav > .visible-xs > a {
+    background-color: #ccc;
+    width: 100%;
+}
+
+/* Custom styles for the tall section */
+.row > .col-xs-12 {
+    background-color: #e0e0e0;
+}
